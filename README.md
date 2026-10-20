@@ -22,10 +22,8 @@ n foto dan kategori.
 
 ## 📸 Tangkapan Layar (Screenshot)
 <p align="center">
-  <img src="<img width="720" height="1600" alt="sled1" src="https://github.com/user-attachments/assets/a25391e8-4ad4-47ba-9ff5-a983c2af2bc6" />
-" width="240" />
-  <img src="<img width="720" height="1600" alt="sled2" src="https://github.com/user-attachments/assets/259c1d2e-2bfc-4f3d-ad88-1ea4eb6c0ffb" />
-" width="240" />
+  <img src="https://github.com/user-attachments/assets/a25391e8-4ad4-47ba-9ff5-a983c2af2bc6" width="220" />
+  <img src="https://github.com/user-attachments/assets/259c1d2e-2bfc-4f3d-ad88-1ea4eb6c0ffb" width="220" />
 </p>
 
 
