@@ -21,8 +21,11 @@ n foto dan kategori.
 2. Tunggu proses *Gradle Sync* selesai, lalu jalankan aplikasi langsung ke HP / Emulator via Android Studio dengan menekan tombol **Play ( ▶ )** atau shortcut `Shift + F10`.
 
 ## 📸 Tangkapan Layar (Screenshot)
-| Layar 1 (Daftar Resep) | Layar 2 (Detail Resep) |
-<img width="720" height="1600" alt="WhatsApp Image 2026-10-20 at 23 24 48 (1)" src="https://github.com/user-attachments/assets/76aa42fe-507e-4959-8903-79346e5c8d04" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-10-20 at 23 24 49" src="https://github.com/user-attachments/assets/eea34f3e-e2a2-46a4-ba44-450e6a87f188" />
+<p align="center">
+  <img src="<img width="720" height="1600" alt="sled1" src="https://github.com/user-attachments/assets/a25391e8-4ad4-47ba-9ff5-a983c2af2bc6" />
+" width="240" />
+  <img src="<img width="720" height="1600" alt="sled2" src="https://github.com/user-attachments/assets/259c1d2e-2bfc-4f3d-ad88-1ea4eb6c0ffb" />
+" width="240" />
+</p>
 
 
