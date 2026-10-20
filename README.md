@@ -4,8 +4,7 @@ Aplikasi **Resep Nusantara** berbasis Android yang dikembangkan menggunakan Andr
 
 ## 📱 Fitur & Layar Aplikasi
 
-1. **Layar 1 (Menu Utama / Daftar Resep):** Halaman utama berlatar belakang kustom estetik dengan judul bergaya latin mewah, menampilkan daftar 5 resep kuliner nusantara pilihan (Rendang Padang, Nasi Goreng Spesial, Soto Ayam, Sayur Asem, dan Papeda Kuah Kuning) lengkap denga<img width="720" height="1600" alt="WhatsApp Image 2026-10-20 at 23 24 48 (1)" src="https://github.com/user-attachments/assets/363f79cd-4a5c-4743-86af-a32bcc82d92c" />
-n foto dan kategori.
+1. **Layar 1 (Menu Utama / Daftar Resep):** Halaman utama berlatar belakang kustom estetik dengan judul bergaya latin mewah, menampilkan daftar 5 resep kuliner nusantara pilihan (Rendang Padang, Nasi Goreng Spesial, Soto Ayam, Sayur Asem, dan Papeda Kuah Kuning) lengkap dengan foto dan kategori.
 2. **Layar 2 (Detail Resep):** Halaman detail interaktif yang menampilkan foto makanan ukuran penuh, judul, kategori, lengkap dengan daftar bahan-bahan dan langkah-langkah pembuatan.
 
 ## 🛠️ Komponen UI & Teknologi yang Digunakan
@@ -13,7 +12,7 @@ n foto dan kategori.
 * **Layout & Container:** LinearLayout, ScrollView, CardView, RecyclerView
 * **View / Components:** TextView, ImageView
 * **Aset & Styling:** Custom drawable background, font style kustom, efek bayangan teks, dan resource gambar menu lokal.
-* **Configuration:** Kotlin, Min SDK 24 / Compile SDK (sesuaikan dengan project kamu).
+* **Configuration:** Kotlin, Min SDK 24.
 
 ## 🚀 Cara Menjalankan Aplikasi
 
@@ -21,9 +20,8 @@ n foto dan kategori.
 2. Tunggu proses *Gradle Sync* selesai, lalu jalankan aplikasi langsung ke HP / Emulator via Android Studio dengan menekan tombol **Play ( ▶ )** atau shortcut `Shift + F10`.
 
 ## 📸 Tangkapan Layar (Screenshot)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a25391e8-4ad4-47ba-9ff5-a983c2af2bc6" width="220" />
   <img src="https://github.com/user-attachments/assets/259c1d2e-2bfc-4f3d-ad88-1ea4eb6c0ffb" width="220" />
 </p>
-
-
