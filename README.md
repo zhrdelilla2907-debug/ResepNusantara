@@ -1,6 +1,6 @@
 # tugas1 - Merancang Antarmuka (UI) Dasar Aplikasi Mobile
 
-# Resep Nusantara - Aplikasi Resep Makanan Khas Indonesia
+#Resep Nusantara - Aplikasi Resep Makanan Khas Indonesia
 Aplikasi **Resep Nusantara** berbasis Android yang dikembangkan menggunakan Android Studio (Kotlin, RecyclerView, dan CardView) dengan tema antarmuka yang estetik. Dengan adanya apkliaksi ini orang orang dapat dengan mudah menemukan resep resep makanan khas nusantara
 
 ## 📱 Fitur & Layar Aplikasi
