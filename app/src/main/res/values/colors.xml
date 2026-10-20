@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama (Oranye & Merah Cabai) -->
+    <color name="orange_primary">#FF6F00</color>
+    <color name="orange_dark">#C43E00</color>
+    <color name="orange_light">#FFE082</color>
+
+    <!-- Warna Aksen & Kategori -->
+    <color name="red_accent">#E53935</color>
+    <color name="green_fresh">#4CAF50</color>
+    <color name="yellow_warm">#FFC107</color>
+
+    <!-- Warna Latar Belakang & Teks -->
+    <color name="bg_light">#F9F9F9</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+</resources>
